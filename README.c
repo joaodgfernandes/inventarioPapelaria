@@ -12,4 +12,3 @@
 8 - Listar informacao de um produto 
 9 - Sair
 
-//Esta não é a versão final, apenas uma amostra do que fiz até agora.
